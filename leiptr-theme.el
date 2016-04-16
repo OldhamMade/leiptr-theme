@@ -128,6 +128,7 @@
        `(magit-whitespace-warning-face ((,class (:background ,leiptr-red-1))))
        `(match ((,class (:background ,leiptr-red-1))))
        `(minibuffer-prompt ((,class (:foreground ,leiptr-blue-1))))
+       `(header-line ((,class (:foreground ,leiptr-fg :background ,leiptr-grey-2))))
        `(mode-line ((,class (:foreground ,leiptr-fg :background ,leiptr-grey-2))))
        `(mode-line-inactive ((,class (:foreground ,leiptr-grey-1 :background ,leiptr-grey-4))))
        `(org-checkbox ((,class (:foreground ,leiptr-green-1))))
