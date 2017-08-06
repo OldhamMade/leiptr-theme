@@ -116,7 +116,7 @@
        `(ido-subdir ((,class (:foreground ,leiptr-blue-2))))
        `(ido-virtual ((,class (:foreground ,leiptr-slate-1))))
        `(lazy-highlight ((,class (:background ,leiptr-yellow-2))))
-       `(link ((,class (:foreground ,leiptr-blue-3 :underline t :weight bold))))
+       `(link ((,class (:foreground ,leiptr-blue-0 :underline t :weight bold))))
        `(linum ((,class (:foreground ,leiptr-grey-2))))
        `(magit-branch ((,class (:foreground ,leiptr-red-0))))
        `(magit-diff-add ((,class (:foreground ,leiptr-green-1 :background ,leiptr-bg))))
