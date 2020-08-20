@@ -157,6 +157,8 @@
        `(anzu-mode-line ((,class (:foreground ,leiptr-orange-0))))
        ))
 
+(set-frame-parameter nil 'background-mode 'dark)
+
 ;;;###autoload
 (when (and (boundp 'custom-theme-load-path)
            load-file-name)
