@@ -176,8 +176,10 @@
        `(magit-log-sha1 ((,class (:foreground ,leiptr-red-0))))
        `(magit-log-head-label-local ((,class (:foreground ,leiptr-fg))))
        `(magit-whitespace-warning-face ((,class (:background ,leiptr-red-1))))
+
        `(match ((,class (:background ,leiptr-red-1))))
        `(minibuffer-prompt ((,class (:foreground ,leiptr-blue-1))))
+       `(mmm-default-submode-face ((,class (:background ,leiptr-bg))))
 
        ;;; org
        `(org-checkbox ((,class (:foreground ,leiptr-green-1))))
